@@ -1,7 +1,7 @@
 package com.coolweather.android.db;
 
 import org.litepal.crud.LitePalSupport;
-
+//市的表
 public class City extends LitePalSupport {
     private int id;
     private String cityName;  //记录城市的名字

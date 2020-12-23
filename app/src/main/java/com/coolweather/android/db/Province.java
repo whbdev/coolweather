@@ -2,7 +2,7 @@ package com.coolweather.android.db;
 
 
 import org.litepal.crud.LitePalSupport;
-
+//省的表
 public class Province extends LitePalSupport {
     private int id;
     private String provinceName;  //省的名字

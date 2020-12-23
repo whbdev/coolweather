@@ -1,7 +1,7 @@
 package com.coolweather.android.db;
 
 import org.litepal.crud.LitePalSupport;
-
+//县的表
 public class County extends LitePalSupport {
     private int id;
     private String countyName; //记录县的名字
